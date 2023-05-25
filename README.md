@@ -1,2 +1,2 @@
 # courera-test
-Courera test repositoty 
+Courera test repository
